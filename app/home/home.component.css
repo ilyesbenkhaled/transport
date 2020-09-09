@@ -1,0 +1,26 @@
+.title2 {
+    float: left;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+p {
+    color: #767676;
+    float: left;
+    font-family: lato;
+    font-size: 15px;
+    line-height: 27px;
+    margin: 0;
+    width: 100%;
+}
+.safe-affordable-cargo {
+    float: left;
+    min-height: initial;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+
+table {
+	background-color: #f9f9f8;
+}
